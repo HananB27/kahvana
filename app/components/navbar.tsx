@@ -12,8 +12,9 @@ const Navbar = () => {
                         <Image
                             src={"/logo.png"}
                             alt=""
-                            width={80}
+                            width={84}
                             height={80}
+                            className="h-16"
                             />
                         <h1 className="text-gray-900 text-3xl ml-4">kahvana</h1>
                     </div>

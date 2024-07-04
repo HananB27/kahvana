@@ -40,7 +40,7 @@ const Trusted = () => {
             </div>
           </a>
           <a href="https://www.linkedin.com/in/asim-avdagic-249a4b46/" className="w-full bg-gray-700 rounded shadow-sm p-4 flex mb-4 2xl:ml-20 cursor-pointer hover:bg-gray-600">
-            <Image className="h-20 w-20 rounded-full mr-5" src="/asim-avdagic.jpg" alt="" width={30} height={30}/>
+            <Image className="h-20 w-20 rounded-full mr-5" src="/asim-avdagic.jpg" alt="" width={100} height={100}/>
             <div>
               <h4 className="text-white text-xl font-medium">Asim Avdagić</h4>
               <h5 className="text-sm text-white">CEO @ Bamcard d.d.</h5>

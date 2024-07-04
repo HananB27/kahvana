@@ -9,6 +9,7 @@ import Services from "@/app/components/services";
 import About from "@/app/components/about";
 import Contact from "@/app/components/contact";
 import Footer from "@/app/components/footer";
+import Talent from "@/app/components/talent";
 const Home = () =>{
 
     return(
@@ -19,6 +20,7 @@ const Home = () =>{
             <Areas/>
             <Simplify/>
             <Services/>
+            <Talent/>
             <About/>
             <Contact/>
             <Footer/>
